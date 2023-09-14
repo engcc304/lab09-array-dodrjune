@@ -25,3 +25,8 @@
         Array = 1 1 3 9 8 2 7 8
 
 */
+#include <stdio.h>
+
+int main () {
+    
+}
